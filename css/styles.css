@@ -13,3 +13,12 @@ p{
 ul{
     line-height: 40px;
 }
+body{
+    background-color:#800000;
+}
+em{
+    font-weight: 800;
+}
+strong{
+    font-style: italic;
+}
